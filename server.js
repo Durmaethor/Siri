@@ -1,4 +1,4 @@
-const messages = ["H-E-LL-O!", "I'm sorry, you suck!", "The schnozberries taste like schnozberries!", "Napolean, give me some of your tots!", "I'm Batman!", "What about second breakfast?", "You think thats air you are breathing?"];
+const messages = ["H-E-LL-O!", "I'm sorry, you suck!", "The schnozberries taste like schnozberries!", "Napolean, give me some of your tots!", "I'm Batman!", "What about second breakfast?", "You think thats air you are breathing?", "42", "May the Force be with you.", "Suck it, Johnny!", "Well, lets see....", "That's what she said."];
 
 function getRandomMessage () {
     const randomNum = Math.floor(Math.random() * messages.length);
